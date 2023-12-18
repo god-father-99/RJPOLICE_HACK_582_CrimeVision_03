@@ -1,4 +1,4 @@
-# Real-time Sharp objects Like (Knife and Scissor) Detection using YOLO and OpenCV
+# Real-time Sharp objects (Knife and Scissor) Detection 'For AI For Intelligent Camera Desicion Making'
 
 ## Overview
 
