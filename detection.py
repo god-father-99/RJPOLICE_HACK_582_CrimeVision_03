@@ -40,7 +40,7 @@ while True:
             currentClass = classNames[cls]
 
 
-            if currentClass == "knife" and "scissors" and conf > 30:
+            if currentClass == "knife" or currentClass == "scissors" and conf > 30:
                 x3, y3, x4, y4 = box.xyxy[0]
                 x3, y3, x4, y4 = int(x3), int(y3), int(x4), int(y4)
 
